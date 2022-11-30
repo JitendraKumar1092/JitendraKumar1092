@@ -32,9 +32,6 @@ I am Jitendra Kumar, currently pursuing my B.Tech degree in Computer Science fro
 </td>
 </tr>
 </table>
-<!-- <h2 align='center'><i><a href="https://github.com/JitendraKumar1092/github-readme-activity-graph">Jitendra's Contribution Graph 📈</i></h2> -->
-<p align="center">
-<a href="https://github.com/JitendraKumar1092/github-readme-activity-graph">
- <img src="https://activity-graph.herokuapp.com/graph?username=JitendraKumar1092&theme=react-dark&area=true&hide_border=true" width="100%">
- </a>
- </p>
+![][snake] <br> ![][graph]
+
+![][quote] <br> ![][meme]
