@@ -1,1 +1,1 @@
-https://github-readme-streak-stats.herokuapp.com/?user=yJitendraKumar1092
+https://github-readme-streak-stats.herokuapp.com/?user=JitendraKumar1092
