@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Jitendra Kumar Yadav</h1>
-<h3 align="center">.............. pattrick@pattrick-81ut ..,;:ccc,. ---------------------- ......''';lxO. OS: Arch Linux x86_64 .....''''..........,:ld; Host: 81UT Lenovo IdeaPad S145-15API .';;;:::;,,.x, Kernel: 6.1.38-1-MANJARO ..'''. 0Xxoc:,. ... Uptime: 1 hour, 3 mins .... ,ONkc;,;cokOdc',. Packages: 1474 (pacman) . OMo ':ddo. Shell: zsh 5.9 dMc :OO; Resolution: 1920x1080 0M. .:o. DE: Hyprland ;Wd WM: sway ;XO, Theme: Adwaita [GTK2], Layan-Dark [GTK3] ,d0Odlc;,.. Icons: Adwaita [GTK2], kora [GTK3] ..',;:cdOOd::,. Terminal: alacritty .:d;.':;. CPU: AMD Ryzen 5 3500U with Radeon Vega Mobile Gfx (8) @ 2.100GHz 'd, .' GPU: AMD ATI Radeon Vega Series / Radeon Vega Mobile Series ;l .. Memory: 2657MiB / 5803MiB .o c .' .</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendrakumar1092&label=Profile%20views&color=0e75b6&style=flat" alt="jitendrakumar1092" /> </p>
 
