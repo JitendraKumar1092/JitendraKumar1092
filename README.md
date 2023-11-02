@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **egr.jitendrayadav@gmail.com**
 
-- ⚡ Fun fact **I'm delulu. :)**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
